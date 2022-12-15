@@ -6,8 +6,8 @@ body {
     display: flex;
     justify-content: space-around;
     background-color: #1b254a;
-    max-width: 25%;
-    min-height: 220px;
+    max-width: 60%;
+    min-height: 250px;
     margin: auto auto;
     color: white;
     text-align: center;
